@@ -1,0 +1,3 @@
+# School Parking and Vehicle Registration System
+# Uses only Python standard library + Tkinter
+# No external packages required
